@@ -1,0 +1,12 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+
+    <string-array name="priority_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
